@@ -58,7 +58,7 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 2. **Clone the Forked Repository**:
    ```bash
-   git clone https://github.com/vaishnavi-mapari/calculator.git
+   git clone https://github.com/vaishnavi-mapar/calculator.git
    ```
 
 3. **Create a New Branch**:
@@ -92,7 +92,7 @@ This project is open-source and available under the MIT License.
 Feel free to reach out for any questions or collaboration opportunities:
 
 - **Author**: Vaishnavi Mapari
-- **Email**: vaishnavi.mapari678@example.com
+- **Email**: vmapari678@example.com
 - **GitHub**: [vaishnavi-mapari](https://github.com/vaishnavi-mapari)
 
 ---
